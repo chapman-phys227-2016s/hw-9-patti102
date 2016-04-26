@@ -1,8 +1,8 @@
 # PHYS227 HW 9
 
-**Author:** _\<your name\>_
+**Author:** Taylor Patti
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-9-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-9-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-9-patti102.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-9-patti102)
 
 **Due date:** 2016/04/21
 
@@ -17,7 +17,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw9.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+This was a pretty cool homework assignment. I definitely understand Python classes more. The applications which we used were also very practical and useful for other things.
 
 ## Honor Pledge
 
@@ -26,6 +26,8 @@ I pledge that all the work in this repository is my own with only the following 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
+I googled error codes.
+
 Signed,
 
-_\<your name\>_
+Taylor Patti
